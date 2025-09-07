@@ -1,0 +1,14 @@
+sentence-transformers>=2.2.2
+qdrant-client>=1.7.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+google-generativeai>=0.3.0
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+tf-keras>=2.15.0
+keras<3.0.0
+transformers>=4.30.0
+git+https://github.com/google-research/bleurt.git 
+langchain>=0.1.0

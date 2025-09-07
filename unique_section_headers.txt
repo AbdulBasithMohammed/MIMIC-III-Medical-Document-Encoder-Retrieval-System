@@ -1,0 +1,888 @@
+Abdomen
+Abdomen and pelvis
+Abdominal exam
+Active diagnoses
+Active issues
+Acute issues
+Acute issues of care
+Acute kidney injury
+Admission
+Admission EKG
+Admission Laboratory
+Admission Labs
+Admission Plan
+Admission cxr
+Admission exam
+Admission labs
+Admission vitals
+Allergies
+Anesthesia
+Antenatal History
+Antenatal Screens
+Antenatal history
+Arterial Studies
+Assessment
+Assessment and Plan
+Assessment and plan
+Assessment/Plan
+Atrial Fibrillation
+Attending note
+Audiology
+Barium Swallow
+Barriers to Care
+Blood Culture
+Blood Cultures
+Blood Pressure
+Blood culture
+Blood cultures
+Bone Marrow Biopsy
+Bone Scan
+Breast Examination
+Bronchial Lavage
+Bronchial Washing
+Bronchoscopy
+C Spine Examination
+C-spine
+C-spine CT
+C-spine Study
+C-spine Xray
+CXR PA/LAT
+CXR findings
+CXR impression
+CXR portable
+CXR reason for exam
+Cardiac Cath
+Cardiac Echo
+Cardiac Exam
+Cardiac Examination
+Cardiac History
+Cardiac Labs
+Cardiac MRI
+Cardiac Risk Factors
+Cardiologist
+Cardiovascular exam
+Care recommendations
+Carotid angiogram
+Carotid bruit
+Carotid dopplers
+Carotid series
+Carotid stenting
+Carotid u/s
+Carotid ultrasound
+Carotid us
+Cath comments
+Cerebellar exam
+Cerebral angiogram
+Chest examination
+Chest film
+Chest radiograph
+Chest x-ray
+Chest x-ray findings
+Chest xray
+Chief cause of death
+Chief complaint
+Chronological events
+Clinical course
+Clinical history
+Clinical indication
+Clinical information
+Coagulation profile
+Code status
+Comfort care
+Communications
+Comparison exam
+Comparison studies
+Comparison study
+Complete blood count
+Complications
+Conclusions
+Conscious sedation
+Constitutional
+Consults
+Consults involved
+Course in icu
+Course on the floor
+Cranial nerves
+Current admission
+Current medication
+Current medications
+Cytology
+Death note
+Diagnoses
+Diagnosis
+Diagnostic studies
+Discharge activities
+Discharge care
+Discharge condition
+Discharge diagnoses
+Discharge diagnosis
+Discharge diet
+Discharge dispo
+Discharge exam
+Discharge exam vs
+Discharge follow up
+Discharge follow-up
+Discharge followup
+Discharge lab data
+Discharge labs
+Discharge medication
+Discharge physical
+Discharge plan
+Discharge plans
+Discharge procedure
+Discharge services
+Discharge status
+Discharge/death exam
+Disposition
+Disposition issues
+Disposition/plan
+Duplex ultrasound
+ECG
+EEG impression
+EKG on admission
+ENT
+ERCP impression
+ERCP- impression
+Ear-nose-throat
+Ears and nares
+Echo conclusions
+Echocardiogram
+Electrocardiogram
+Emergency contact
+Endocrine system
+Endocrinology
+Esophageal biopsy
+Esophageal varices
+Esophogram
+Estimated blood loss
+Etoh family history
+Etoh use
+Eus impression
+Exam
+Exam at discharge
+Exam on discharge
+Exam upon admission
+Examination
+Extremities
+Extremities and back
+Eyes
+Eyes / conjunctiva
+Eyes and ears
+F/u on discharge
+FNA cytology
+Facial palsy
+Failed voiding trial
+Failure to thrive
+Family History
+Family history
+Family hx
+Feeds at discharge
+Femoral pulses
+Fever/leukocytosis
+Filling pressures
+Final Diagnoses
+Final Diagnosis
+Final diagnoses
+Final diagnosis
+Final report
+Findings
+Fluid and nutrition
+Fluid electrolytes
+Fluid restriction
+Focus of care
+Foley care
+Follow up
+Follow up plan
+Follow up plans
+Follow-up
+Follow-up Plan
+Follow-up Plans
+Follow-up at rehab
+Follow-up needed for
+Follow-up plans
+Following extubation
+Followup
+Foot ulcer
+Foot x-ray
+Foot x-rays
+Full code Procedure
+Full code pmh
+Functional mri
+Fundoscopic exam
+G tube study
+G-tube care
+GI Biopsy
+GI Bleed
+GI Bleed Study
+Gastroenterology
+Gastrointestinal
+General Appearance
+General Comments
+General Examination
+Genitalia
+Genitourinary
+Goals of Care
+Goals of Wound Care
+Graft Angiography
+Gross Description by
+Gu
+Guiac Positive Stool
+Gynecology
+HEENT
+HEENT Exam
+HEENT Examination
+HIV/AIDS
+HPI
+HTN
+HTN/Hypotension
+Head CT
+Head CT - Impression
+Head CT Findings
+Head and Neck
+Head and Neck Exam
+Health Care Proxy
+Heart Medications
+Hematologic
+Hematologic Issues
+Hematological
+Hematological Status
+Hematology
+Hematology Status
+Hematology/Oncology
+Heme/ID
+Heme/Oncology
+Hemodialysis
+Hemodynamics
+Hepatic/Transplant
+Hepatitis B
+Hepatitis B s Ag
+Hepatitis C
+Hepatology service
+Histologic Grade
+Histologic grade
+History
+History of Present Illness
+History of delirium
+Home Medications
+Home Meds
+Home medications
+Home meds
+Hospital Course
+Hospital course
+Hospital course plan
+Hospitalizations
+Hypercalcemia
+Hypercholesterolemia
+Hyperglycemia
+Hyperkalemia
+Hyperlipidemia
+Hypernatremia
+Hypertension
+Hypocalcemia
+Hypoglycemia
+Hypokalemia
+Hyponatremia
+Hypotension
+Hypotension Issues
+Hypotension/Fever
+Hypothermia
+Hypothyroidism
+Hypovolemia
+Hypoxia
+ICU Course
+ICU Meds
+ICU Stay
+ICU course
+ID
+IV access
+IV fluids
+IVDU
+Imaging
+Imaging Studies
+Imaging studies
+Imaging/Diagnostics
+Imaging/studies
+Immunizations
+Immunofluorescence
+Immunosuppression
+Impression
+Incision care
+Indications
+Infectious disease
+Infectious diseases
+Informed consent
+Initial assessment
+Initial ed vitals
+Initial images
+Initial laboratories
+Initial ros
+Initial vitals
+Initial vs
+Insulin regimen
+Integumentary
+Interim diagnosis
+Interval hx
+Interval results
+Intra-op echo
+Intraop
+Intrapartum
+JP drain care
+Known allergies
+LE Doppler U/S
+LE U/S
+Lab data
+Lab tests
+Laboratories
+Laboratory data
+Laboratory findings
+Laboratory studies
+Laboratory values
+Labs
+Labs at discharge
+Labs on admission
+Labs on discharge
+Labs upon admission
+Labs upon discharge
+Labwork on discharge
+Last dental exam
+Last labs
+Latest abg
+Left ankle x-ray
+Left foot x-ray
+Left hip x-ray
+Line Placement
+Lipid Panel
+Lipid Profile
+Liver Function Tests
+Liver US Impression
+Liver/Gallbladder US
+Lower Extremities
+Lumbar Puncture
+Lung Examination
+Major Procedures
+Maternal History
+Medical Course
+Medical History
+Medical Management
+Medication Plan
+Medications
+Medications Started
+Medications at Home
+Mental Status
+Mental Status Change
+Microbiology
+Microbiology Data
+Microbiology Info
+Microbiology Studies
+Neurological exam
+Neurology
+New medications
+New medicines
+Newborn screen
+Nonfocal exam pulm
+Notable labs include
+Notable osh studies
+Notable studies
+Ob history
+Ob/gyn
+On neurological exam
+Oncologic history
+Oncology
+Op report
+Ophthalmology
+Orientation
+Orthopedic
+Orthopedics
+Outpatient lab work
+Pacemaker/icd
+Pain
+Pain control
+Pain management
+Past cardiac history
+Past medical history
+Past surgical hx
+Pathology
+Pathology report
+Pelvic examination
+Pelvis x-ray
+Pending labs
+Pending labs/studies
+Pericardial effusion
+Pericarditis
+Pericardium
+Pericardium biopsy
+Pertinent history
+Pertinent labs
+Physical Exam
+Physical exam
+Physical examination
+Physical therapy
+Procedure
+Psychiatric
+Psychosocial
+Pulmonary
+Radiographic studies
+Radiology
+Radiology studies
+Reason for the exam
+Recent history
+Recommendations
+Recreational drugs
+Rectal exam
+Rectal examination
+Referring doctor
+Referring physician
+Reflexes
+Regional lymph nodes
+Relevant imaging
+Relevant labs
+Relevant studies
+Renal
+Renal system
+Renal ultrasound
+Renal us
+Repeat ct head
+Repeat echo
+Respiratory
+Respiratory Status
+Respiratory Support
+Respiratory System
+Respiratory failure
+Respiratory status
+Results/images
+Review of Symptoms
+Review of Systems
+Review of symptoms
+Review of systems
+Review of sytems
+Rheumatology
+Right groin hematoma
+Right shoulder xray
+Scrotal us findings
+Secondary Diagnoses
+Secondary diagnosis
+Selected Lab Results
+Sensory System
+Sensory/audiology
+Skin Examination
+Social History
+Spinal Fluid
+Spine
+Spine - provider
+Sputum cultures
+Sputum cx
+Sputum gram stain
+Stat echo performed
+State newborn screen
+Status on discharge
+Status post liver
+Stool culture
+Stool studies
+Studies from osh
+Subacute meningitis
+Subsequent ed ekg
+Substance use
+Suicidality
+Summary
+Summary / impression
+Summary of course
+Surgical course
+Surgical history
+Surgical incision
+Surgical wound
+Surgical wounds
+Sutures / staples
+Swallow eval
+Swallow evaluation
+T spine
+Tb risk factors
+Tbbx
+Tca overdose
+Tel
+Telemetry
+Thoracic aorta
+Thoracic spine
+Thrush
+Thyroid us
+Time of death
+Tl-spine
+Tobacco
+Toxicology
+Toxicology screen
+Toxocology screen
+Tracheal wall bx
+Tracheostomy
+Transabdominal u/s
+Transfer medications
+Transfer meds
+Transfer of care
+Transfer vitals
+Transition issues
+Transitional issues
+Transitions in care
+Transitions of care
+Transthoracic echo
+Treatment techniques
+Treatments
+Tricuspid valve
+Tubes/lines/drains
+Tumor configuration
+Tumor markers
+Tumor site
+Type i diabetes
+U/A
+U/S impression
+UA
+US Liver/Gallbladder
+US Thyroid
+Ultrasound
+Unit HPI
+Upper GI bleed
+Upper endoscopy
+Upper extremities
+Upright AP chest
+Urinalysis
+Urine
+Urine culture
+Urine electrolytes
+Urine output
+Urine studies
+Urology
+Vaccinations
+Vascular access
+Vascular surgery
+Ventilation
+Video swallow
+Video swallow study
+Viral culture
+Visual fields
+Vital signs
+Vitals
+Vitals on arrival
+Volume status
+Wake up
+Wound
+Wound care
+Wound culture
+bone marrow biopsy
+bronchial washing
+bronchoscopy
+c diff toxin assay
+c-spine ct
+c-spine ct from osh
+cardiac cath
+cardiac echo
+cardiac enzymes
+cardiac exam
+cardiac history
+cardiac mri
+cardiovascular exam
+carotid angiogram
+carotid stenting
+carotid ultrasound
+cerebellar exam
+cerebral angiogram
+chest ct
+chest ct scan
+chest cta
+chest film
+chest x-ray
+chief complaint
+current medications
+cxr impression
+dc physical exam vs
+diagnoses
+diagnosis
+diagnostic studies
+diet
+differential
+difficile colitis
+discharge
+discharge care
+discharge condition
+discharge diagnoses
+discharge diagnosis
+discharge dispo
+discharge exam
+discharge follow up
+discharge follow-up
+discharge followup
+discharge labs
+discharge physical
+discharge plan
+discharge plans
+discharge procedure
+discharge services
+discharge status
+discharge/death exam
+disposition
+disposition/plan
+dressings
+drugs
+ear-nose-throat
+ears and nares
+ecg
+echo
+echo conclusions
+echo impression
+echocardiogram
+ekg
+ekg on admission
+electrocardiogram
+electrolytes
+emergency contact
+endocrine
+endocrine system
+endoscopy
+fundoscopic exam
+gastroenterology
+general appearance
+general comments
+genitalia
+genitourinary
+goals of care
+head and neck exam
+head ct
+head ct impression
+head ct scan
+head cta
+head mri
+healthcare proxy
+heent exam
+hematologic
+hematological status
+hematology
+hemodynamics
+hepatic/transplant
+hepatitis b
+iv access
+j-tube
+jp drain care
+jvp not elevated cv
+knee x-ray
+kub findings
+kub impression
+l wrist x-ray
+lab at discharge
+lab data
+lab tests
+laboratories
+laboratory data
+laboratory findings
+laboratory studies
+labs at discharge
+labs on admission
+labs on discharge
+le doppler u/s
+left foot x-ray
+left hip x-ray
+line placement
+line placement chest
+lipid panel
+lipid profile
+liver biopsy
+liver us
+liver us impression
+liver usg
+lower extremity us
+lue/lle ultrasound
+lumbar xray showed
+maternal history
+medication
+medication changes
+medication plan
+medications
+medications at home
+medications started
+mental status
+mental status gcs
+most recent omr note
+motor examination
+motor system
+musculoskeletal
+nad heent
+neck
+neck ultrasound
+neonatal course
+nephrology
+neuro exam
+neuroimaging
+neurologic
+neurological
+neurological exam
+neurology
+neurosurgery
+nl bowel sounds ext
+no c/c/e heent
+no c/c/e neuro
+no c/c/e skin
+no deformity neuro
+no edema skin
+no hsm ext
+no hsm extremities
+no jvd lungs
+no m/r/g chest
+non-contrast head ct
+nuclear stress test
+nutrition
+oa social history
+ob/gyn history
+onc history
+oncologic history
+oncology
+operative note
+operative report
+ophthalmology
+orientation
+osh labs and results
+ospital course
+ostomy note
+other diagnoses
+other labs
+other notable labs
+other past med hx
+other procedures
+past medical history
+pathology
+pcxr
+pe
+peg site c/d/i gu
+peg tube
+peg tube site
+pelvic xray
+pending labs
+per ent exam
+pericardial effusion
+pericardial rub
+pericardium
+peripheral pulses
+peripheral vascular
+peritoneal fluid
+pertinent imaging
+pertinent results
+pharyngeal carcinoma
+pharyngeal phase
+physical exam
+physical examination
+physical therapy
+picc line
+plain films
+plain films orbits
+plavix duration
+pleural effusion
+pleural effusions
+pleural fluid
+pleuritic chest pain
+pmh
+pmhx
+pneumonia
+pneumonia/sepsis
+pneumonitis
+pns
+poc
+polycythemia
+polysubstance abuse
+portable abdomen
+portable ap chest
+portable chest
+portable cxr
+positive blood cx
+positive culture
+post bypass
+post cpb
+post op head ct
+post opcab
+post pericardiectomy
+post- bivad
+post-bypass
+post-cpb
+post-intubation cxr
+post-line cxr
+post-op ct
+post-procedure cxr
+postbypass
+postop blood work
+postoperative
+postoperative tee
+ppx
+pre-operatively
+precautions
+prednisone taper
+preeclampsia
+pregnancy history
+prenatal course
+prenatal history
+prenatal screen
+prenatal screens
+present hx
+primary diagnoses
+primary diagnosis
+prior studies
+prn medications
+problem list
+problems
+procedure
+procedure in detail
+procedure performed
+procedures
+procedures performed
+prophylaxis
+psh
+pshx
+psych
+psych issues
+psychiatric
+psychiatry
+psycho/social
+psychosocial
+psychosocial issues
+pulmonary
+pulmonary embolism
+pulmonary fibrosis
+pulmonary system
+pulse
+pulses
+pvd
+radiographic studies
+radiographs
+radiology
+radiology studies
+radiology/imaging
+rash
+rash/eosinophilia
+secondary diagnoses
+secondary diagnosis
+selected lab results
+sensory status
+sensory system
+sensory/audiology
+sepsis
+sepsis secondary
+sepsis/id
+serum ammonia
+sicu course
+social history
+special note
+spine
+spine - provider
+sputum cultures
+sputum cx
+stat echo performed
+steroid taper
+stool culture
+stool studies
+surgical
+surgical course
+surgical history
+surgical incision
+surgical wound
+surgical wounds
+t spine
+t-spine film
+tb risk factors
+telemetry
+thoracic aorta
+thoracic spine
+thyroid us
+time of death
+x-rays
